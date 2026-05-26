@@ -16,17 +16,30 @@ A lightweight Command-Line Interface (CLI) application built with Python to help
 python-expense-tracker-cli/
 │
 ├── expense_tracker.py  # Main application script
+├── .gitignore          # Ignores unnecessary system files
 └── README.md           # Project documentation
-Prerequisites
-You only need Python 3.x installed on your machine.
+```
 
-Steps:
-Clone the repository:
+---
 
-Bash
-git clone [https://github.com/YOUR_USERNAME/python-expense-tracker-cli.git](https://github.com/YOUR_USERNAME/python-expense-tracker-cli.git)
-cd python-expense-tracker-cli
-Run the app:
+## 🚀 How to Run the Project
 
-Bash
-python expense_tracker.py
+### Prerequisites
+You only need **Python 3.x** installed on your machine.
+
+### Steps:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/python-expense-tracker-cli.git
+   cd python-expense-tracker-cli
+   ```
+
+2. **Run the app:**
+   ```bash
+   python expense_tracker.py
+   ```
+
+---
+
+## 🛠️ Built With
+* **Python 3** (No external libraries required)
